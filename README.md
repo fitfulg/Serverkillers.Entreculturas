@@ -14,11 +14,10 @@ P5 - Programación orientada a objetos con acceso a base de datos
 
 * [MVC]
 * [JDBC]
-* [AJAX]
 * [DAO Structural Pattern]
 * [Factory Design Pattern]
 
-## Authors 👩👨
+## Authors 👩👩👨
 
 * **Marina Suárez** 
 * **Eric Ramos** 
